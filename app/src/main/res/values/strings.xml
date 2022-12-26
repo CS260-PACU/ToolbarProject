@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ToolbarProject</string>
+    <string name="Favorite">Favorite</string>
+    <string name="Fav">Fav</string>
 </resources>

@@ -3,7 +3,10 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/miFavorite"
+        android:enabled="true"
         android:icon="@android:drawable/star_big_off"
-        android:title="Favorite"
-        app:showAsAction="ifRoom" />
+        android:title="@string/Favorite"
+        android:titleCondensed="@string/Fav"
+        android:visible="true"
+        app:showAsAction="never" />
 </menu>
